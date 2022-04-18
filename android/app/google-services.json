@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616522782371",
+    "project_id": "mynote-e430a",
+    "storage_bucket": "mynote-e430a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616522782371:android:d207f4ceaae4f6ab431116",
+        "android_client_info": {
+          "package_name": "com.shehab.my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616522782371-3o2lrs67foqisr2d4j2oqcl289ga88sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBISj51CUxtaHTXgUP7q3wKGEmL9LT2tLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616522782371-3o2lrs67foqisr2d4j2oqcl289ga88sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
