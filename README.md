@@ -1,6 +1,6 @@
 # my_notes
 
-A new Flutter project to make notes
+A new  project to make notes
 
 ## Getting Started
 
